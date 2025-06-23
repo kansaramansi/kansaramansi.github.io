@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appURL": "YOUR_TEAM_ID.com.kaleo.knowhim",
+        "paths": [
+          "/share/*",
+          "/content/*",
+          "/profile/*",
+          "*"
+        ]
+      }
+    ]
+  }
+}

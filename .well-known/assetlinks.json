@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dataintake.demo",
+      "sha256_cert_fingerprints": [
+        "E8:A3:15:0F:24:04:ED:9D:1C:58:8B:CB:D7:4C:CA:76:B5:6A:C3:E1:2F:C5:1F:0E:A9:1C:E2:9E:79:A9:39:4E"
+      ]
+    }
+  }
+]
